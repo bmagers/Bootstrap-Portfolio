@@ -117,15 +117,17 @@ p {
 
 .portfolio-item-text {
     position: absolute;
-    top: 170px;
-    left: 50%;
-    width: 274px;
-    background-color: #4aaaa5;
+    top: 235px;
+    left: 100%;
+    width: 400px;
+    background-color: gray;
     color: #ffffff;
-    padding: 15px;
+    font-size: large;
+    opacity: 0.8;
+    padding: 8px;
     transform: translate(-50%, 50%);
 }
-
+/* 
 @media only screen and (max-width: 768px) {
     .name {
         width: 100%;
@@ -139,4 +141,4 @@ p {
         float: none;
         text-align: center;
     }
-}
+} */
